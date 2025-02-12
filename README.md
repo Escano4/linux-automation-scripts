@@ -19,4 +19,4 @@
    ./disk_monitor.sh
 
 ## Лицензия
-MIT License. Подробнее в файле LICENSE.
+MIT License. Подробнее в файле [LICENSE](LICENSE).
