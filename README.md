@@ -9,7 +9,7 @@
 ## Как использовать
 1. Скачайте скрипты:
    ```bash
-   git clone https://github.com/ваш_логин/linux-automation-scripts.git
+   git clone https://github.com/Escano4/linux-automation-scripts.git
 2. Сделайте скрипты исполняемыми:
    ```bash
    chmod +x backup.sh disk_monitor.sh
